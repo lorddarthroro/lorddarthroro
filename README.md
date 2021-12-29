@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lorddarthroro
-- 👀 I’m interested in Data Science and Computer Science
+- 👀 I’m interested in Data Science, Computer Science, and Mathematics
 - 📫 How to reach me rohaanmirahmad@gmail.com
 
 <!---
